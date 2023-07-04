@@ -14,8 +14,8 @@
     <img align="center" style="margin-bottom: 20px;" alt="Caique-Csharp" src="https://img.shields.io/badge/C%23-005eff?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" style="margin-bottom: 50px;" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img align="center" style="margin-bottom: 20px;" alt="Caique-Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" style="margin-bottom: 20px; margin-top: 20px;" alt="Caique-PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
-    <img align="center" style="margin-bottom: 20px; margin-top: 20px;" alt="Caique-Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" style="margin-bottom: 20px; margin-top: 100px;" alt="Caique-PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
+    <img align="center" style="margin-bottom: 20px; margin-top: 100px;" alt="Caique-Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
   
