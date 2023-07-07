@@ -1,6 +1,8 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&size=31&pause=1000&color=9100F7&vCenter=true&multiline=true&width=550&height=200&lines=+Welcome+to+the+my+profile;I'm+Caique+data+analyst)](https://git.io/typing-svg)
 
-<div style="display: flex"; >
+<div display="flex">
+
 <img height="180em"  display="flex" src="https://github-readme-stats.vercel.app/api?username=httpscaique&show_icons=true&theme=dark&includ_all_commits=true&count_private=true" alt="">
 
 <img height="180em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpscaique&layout=compact&langs_count=16&theme=dark" alt="">
