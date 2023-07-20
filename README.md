@@ -1,6 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&size=31&pause=1000&color=9100F7&vCenter=true&multiline=true&width=550&height=200&lines=+Welcome+to+the+my+profile;I'm+Caique+data+analyst)](https://git.io/typing-svg)
 
+
+  <hr>
+
+
+
 <div display="flex">
 
 <img height="180em"  display="flex" src="https://github-readme-stats.vercel.app/api?username=httpscaique&show_icons=true&theme=dark&includ_all_commits=true&count_private=true" alt="">
@@ -8,7 +13,7 @@
 <img height="180em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpscaique&layout=compact&langs_count=16&theme=dark" alt="">
 </div>
 <hr>
-<div style="display: flex; justify-content: space-between;">
+<div align="center style="display: flex; justify-content: space-between;">
     <img align="coluns" style="padding-bottom: 100px;" alt="caique-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="coluns"  style="margin-bottom: 100px;" alt="Caique-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="coluns"  style="margin-bottom: 100px;" alt="Caique-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -21,3 +26,9 @@
 </div>
 
   
+<div ">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
